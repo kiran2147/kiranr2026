@@ -1,5 +1,5 @@
  # kiranr2026
-this is my first git lab account <br> 
-THis is my Second Git lab 
+This is my first git lab account <br> 
+This is my Second Git lab Class
 
 
